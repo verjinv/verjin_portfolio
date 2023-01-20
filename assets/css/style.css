@@ -467,7 +467,7 @@ p {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #2B394A;
+  color: #ffffff;
 }
 
 .hero-content p {
@@ -476,7 +476,7 @@ p {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #403F47 ;
+  color: #ffffff ;
   font-weight: 500;
 }
 
@@ -486,7 +486,7 @@ p {
 }
 
 .hero-content .list-social li i {
-  color: #403F47;
+  color: #ffffff;
   font-size: 15px;
 }
 
